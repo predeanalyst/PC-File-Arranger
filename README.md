@@ -44,7 +44,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/pc-file-arranger.git
+git clone [https://github.com/predeanalyst/pc-file-arranger.git](https://github.com/predeanalyst/PC-File-Arranger.git)
 Navigate to the project directory:
 
 bash
